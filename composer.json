@@ -1,5 +1,5 @@
 {
-    "name": "leezy/pheanstalk-bundle",
+    "name": "pwt777/pheanstalk-bundle",
     "description": "The LeezyPheanstalkBundle is a Symfony2 Bundle that provides a command line interface for manage the Beanstalkd workqueue server & a pheanstalk integration.",
     "keywords": ["symfony", "beanstalkd", "bundle", "pheanstalk", "queueing", "messaging", "asynchronous"],
     "type": "symfony-bundle",
